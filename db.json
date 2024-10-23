@@ -1,0 +1,20 @@
+{
+  "expenseTrackerData": [
+    {
+      "date": "Wed Oct 23 2024 16:49:03 GMT+0800 (中国标准时间)",
+      "expense": "1"
+    },
+    {
+      "date": "Wed Oct 23 2024 16:49:06 GMT+0800 (中国标准时间)",
+      "expense": "2"
+    },
+    {
+      "date": "Wed Oct 23 2024 16:49:07 GMT+0800 (中国标准时间)",
+      "expense": "3"
+    },
+    {
+      "date": "Wed Oct 23 2024 17:04:23 GMT+0800 (中国标准时间)",
+      "expense": "40"
+    }
+  ]
+}
